@@ -64,7 +64,7 @@ Os resultados mostram que o modelo RF com _oversampling_ obteve um desempenho eq
 RF, tornando-o mais adequado para a classificação ternária.
 
 **Tabela 1. Desempenho do modelos avaliados para a classe Art com as métricas Precisão (P), Revocação (R), F1-score (F1), Acurácia (Acc) e F1-macro.**
-| aa | Art | | | Acc | F1-macro |
+| | Art | | | Acc | F1-macro |
 |:-------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | Modelos | P | R | F1 | | | | | | |
 | KNN | 0,70 | 0,68 | 0,69 | 0,61| 0,50|
@@ -72,7 +72,7 @@ RF, tornando-o mais adequado para a classificação ternária.
 | RF (oversampling) | 0,72 | 0,72 | 0,72 | 0,64| 0,56|
 
 **Tabela 2. Desempenho do modelos avaliados para a classe PFPs com as métricas Precisão (P), Revocação (R), F1-score (F1), Acurácia (Acc) e F1-macro.**
-| aa | Art | | | Acc | F1-macro |
+| | PFPs | | | Acc | F1-macro |
 |:-------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | Modelos | P | R | F1 | | | | | | |
 | KNN | 0,38 | 0,20 | 0,26 | 0,61| 0,50|
@@ -80,7 +80,7 @@ RF, tornando-o mais adequado para a classificação ternária.
 | RF (oversampling) | 0,30 | 0,45 | 0,36 | 0,64| 0,56|
 
 **Tabela 3. Desempenho do modelos avaliados para a classe Outros com as métricas Precisão (P), Revocação (R), F1-score (F1), Acurácia (Acc) e F1-macro.**
-| aa | Art | | | Acc | F1-macro |
+| | Outros | | | Acc | F1-macro |
 |:-------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | Modelos | P | R | F1 | | | | | | |
 | KNN | 0,51 | 0,61 | 0,56 | 0,61| 0,50|
