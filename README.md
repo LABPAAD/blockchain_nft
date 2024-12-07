@@ -21,7 +21,10 @@ Os métodos de aprendizado de máquina utilizados são:
 
 Para avaliar os classificadores, dividimos a base de dados em 75% para treino e
 25% para teste, treinando os classificadores com e sem balanceamento de classes.
-[Mais detalhes](https://sol.sbc.org.br/index.php/cblockchain/article/view/29606/29409)
+Para mais detalhes confira o artigo
+
+> Classificação de Coleções de NFTs Explorando Metadados e Aprendizagem de Máquina. In: COLÓQUIO EM BLOCKCHAIN E WEB DESCENTRALIZADA (CBLOCKCHAIN), 2. , 2024, Brasília/DF. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 50-55. DOI:
+> [https://doi.org/10.5753/cblockchain.2024.3172](https://doi.org/10.5753/cblockchain.2024.3172)
 
 ## Execução dos modelos
 
